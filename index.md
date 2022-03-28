@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![My Picture]()
 # This website is to display various projects from my Data Science class
 
 #M3
