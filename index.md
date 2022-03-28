@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Nice Tree](/pictures/tree.jpg)
+![Nice Tree](/Pictures/tree.jpg)
 # This website is to display various projects from my Data Science class
 
 #M3
