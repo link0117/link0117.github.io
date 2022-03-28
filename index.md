@@ -2,9 +2,7 @@
 layout: default
 ---
 
+# This website is to display various projects from my Data Science class
 
-
-
-```
-The final element.
-```
+#M3
+- [Time Series Decompostion](/timeseries/index.md)
