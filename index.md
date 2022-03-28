@@ -1,5 +1,6 @@
 ---
-layout: default
+title: New Website
+description: A data analytics amatuer site
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
