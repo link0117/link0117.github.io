@@ -1,6 +1,6 @@
 ---
-title: New Website
-description: A data analytics amatuer site
+Title: New Website
+Description: A data analytics amatuer site
 ---
 
 ```
