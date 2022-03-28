@@ -1,6 +1,5 @@
 ---
-Title: New Website
-Description: A data analytics amatuer site
+layout: default
 ---
 
 ```
