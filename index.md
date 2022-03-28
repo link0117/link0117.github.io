@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![Nice Tree](/Pictures/tree.jpg)
-
 
 # This website is to display various projects from my Data Science class
 
